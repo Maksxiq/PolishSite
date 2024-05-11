@@ -1,0 +1,70 @@
+/*body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 500px;
+	height: 800px;
+}*/
+.promo-png {
+	width: 100px;
+	height: 200px;
+}
+.price_n {
+	gap: 10px;
+	display: flex;
+	margin-bottom: -20px;
+}
+.price {
+	gap: 10px;
+	display: flex;
+	margin-bottom: -40px;
+}
+.old {
+	color: grey;
+	font-size: 15px;
+	font-weight: 400;
+}
+.new {
+	color: red;
+	font-size: 30px;
+	font-weight: 500;
+}
+.promo {
+	font-family: Reddit Mono;
+	width: 310px;
+	height: 620px;
+	border: 2px solid grey;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: auto;
+}
+.input {
+	height: 30px;
+}
+.text-in {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.disc-text {
+	color: grey;
+}
+.simple_timer {
+	font-weight: 400;
+	font-size: 25px;
+}
+.botton {
+	margin-top: 35px;
+}
+.btn {
+	padding: 10px 65px;
+    border-radius: 5%;
+	background-color: indianred;
+	color: white;
+	text-decoration: none;
+}
+.btn:hover {
+	background-color: darkred;
+}
+.down-txt {
+	font-size: 15px
+}
